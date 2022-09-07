@@ -1,0 +1,13 @@
+Device 21, Port 5: Setting port state as Forwarding
+
+Device 22, Port 1: Setting port state as Forwarding
+
+Starting SPT protocol for device 23, LAN 1
+Stating SPT for LAN 0
+Port 1, Setting status as Forwarding
+Port 2, Setting status as Forwarding
+Starting as root
+Root Id = 1AF1D00001701
+Sending config BPDU
+Root Id = 1AF1D00001701, Root path cost = 90, Bridge Id = 1AF1D00001701
+

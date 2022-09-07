@@ -1,0 +1,90 @@
+Gathering license information
+Server = 5053@172.16.238.149	Roam Enable(1)/Disable(0)=0
+Product name = netsim
+Version type = acad
+Lock type = rlm_hw
+Version = 12.1
+Check license for...
+	netsim_acad_1 or netsim_acad_all or netsim_acad or netsim_acad_inw
+	netsim_acad_2 or netsim_acad_all or netsim_acad or netsim_acad_legacy
+	netsim_acad_3 or netsim_acad_all or netsim_acad or netsim_acad_advrs
+	netsim_acad_4 or netsim_acad_all or netsim_acad or netsim_acad_advw
+	netsim_acad_5 or netsim_acad_all or netsim_acad or netsim_acad_sdn
+	netsim_acad_6 or netsim_acad_all or netsim_acad or netsim_acad_iot
+	netsim_acad_7 or netsim_acad_all or netsim_acad or netsim_acad_crn
+	netsim_acad_8 or netsim_acad_all or netsim_acad or netsim_acad_lte
+	netsim_acad_9 or netsim_acad_all or  or netsim_acad_vanet
+	netsim_acad_10 or netsim_acad_all or  or netsim_acad_5g
+	netsim_acad_11 or netsim_acad_all or  or netsim_acad_sat
+	netsim_acad_12 or netsim_acad_all or  or netsim_acad_uwan
+	netsim_emulator or NA or NA or netsim_acad_NA
+	netsim_acad_102 or netsim_acad_all or netsim_acad or netsim_acad_NA
+	netsim_acad_103 or NA or NA or netsim_acad_prog
+	netsim_acad_104 or NA or NA or netsim_acad_extra
+called for 0, 13012
+called for 1, 12464
+called for 2, 7620
+Waiting for license Manager to complete..
+called for 3, 14068
+Thread is called for component 0. Waiting..
+called for 4, 14308
+called for 5, 14132
+called for 6, 7584
+called for 7, 16232
+called for 8, 6588
+called for 9, 16428
+called for 10, 15800
+called for 11, 16920
+called for 12, 13248
+called for 14, 14600
+called for 15, 7144
+called for 16, 11412
+NetSim Component ID = 6, License status = 1 (Success)
+NetSim Component ID = 2, License status = 1 (Success)
+NetSim Component ID = 7, License status = 1 (Success)
+NetSim Component ID = 3, License status = 1 (Success)
+NetSim Component ID = 5, License status = 1 (Success)
+NetSim Component ID = 1, License status = 1 (Success)
+NetSim Component ID = 4, License status = 1 (Success)
+NetSim Component ID = 14, License status = 1 (Success)
+NetSim Component ID = 0, License status = 1 (Success)
+Closing thread for component 0..
+Thread is called for component 1. Waiting..
+Closing thread for component 1..
+Thread is called for component 2. Waiting..
+Closing thread for component 2..
+Thread is called for component 3. Waiting..
+Closing thread for component 3..
+Thread is called for component 4. Waiting..
+Closing thread for component 4..
+Thread is called for component 5. Waiting..
+Closing thread for component 5..
+Thread is called for component 6. Waiting..
+Closing thread for component 6..
+Thread is called for component 7. Waiting..
+Closing thread for component 7..
+Thread is called for component 8. Waiting..
+Closing thread for component 8..
+Thread is called for component 9. Waiting..
+Closing thread for component 9..
+Thread is called for component 10. Waiting..
+Closing thread for component 10..
+Thread is called for component 11. Waiting..
+Closing thread for component 11..
+Thread is called for component 12. Waiting..
+NetSim Component ID = 12, Unable to get license.
+Error Message - License server does not support this product (-18)
+Closing thread for component 12..
+No thread for component 13..
+Thread is called for component 14. Waiting..
+Closing thread for component 14..
+Thread is called for component 15. Waiting..
+NetSim Component ID = 15, Unable to get license.
+Error Message - License server does not support this product (-18)
+Closing thread for component 15..
+Thread is called for component 16. Waiting..
+NetSim Component ID = 16, Unable to get license.
+Error Message - License server does not support this product (-18)
+Closing thread for component 16..
+
+Time taken is 1766
